@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ISL Interview Bridge",
+  "description": "A real-time, AI-powered bidirectional Indian Sign Language (ISL) translator for job interviews. It converts webcam-based sign language to text/audio and translates text/audio input into animated sign language videos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
